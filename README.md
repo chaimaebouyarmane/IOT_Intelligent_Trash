@@ -26,7 +26,7 @@ In today's rapidly evolving technological landscape, the Internet of Things (IoT
 - Arduino IDE
 - Blynk Platform (for the mobile user interface)
 
-## 🚀 Réalisation
+## Réalisation 🚀
 
 ### Demo
 
@@ -52,3 +52,29 @@ To remotely interact with the Smart Trash Can project, we've established a user-
 
    ```bash
    git clone https://github.com/yourusername/smart-trash-can.git
+
+
+1- Open the Arduino IDE and load the Arduino sketch from the arduino directory.
+
+2- Configure the necessary libraries and dependencies.
+
+3- Upload the sketch to your ESP32 microcontroller.
+
+4- Set up the Blynk mobile app to interact with your trash can (provide configuration details).
+
+## Usage 📦
+
++ Power on your Smart Trash Can.
++ Approach the trash can to trigger automatic lid opening.
++ The fill level sensor will prevent lid opening when the trash can is full.
++ When the trash can is full, the notification system will alert you for immediate collection.
+
+## Contact :busts_in_silhouette:
+Feel free to reach out to us if you have any questions or suggestions:
+
+**Chaimae BOUYARMANE**
+
+ <a href="https://linkedin.com/in/chaimae-bouyarmane-14882622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouyarmane" height="30" width="40" /></a>
+<a href="https://github.com/chaimaebouyarmane" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Votre nom" height="30" width="40" />
+</a>
