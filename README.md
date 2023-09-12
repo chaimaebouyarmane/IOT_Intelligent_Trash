@@ -1,45 +1,38 @@
-# 🗑️ IOT_Project_Smart_Trash: Le Futur de la Gestion des Déchets
+# Smart Trash Can IoT Project 🗑️
 
-![Smart Trash](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/smart_trash.PNG)
+![Smart Trash Can](link_to_your_project_image.png)
 
-![Notification](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/Notification.PNG) 
+Welcome to the Smart Trash Can IoT project repository! This project aims to create an intelligent trash can with the following features:
 
-Smart Trash est un projet IoT (Internet des Objets) qui vise à révolutionner la gestion des déchets en utilisant la technologie pour simplifier la collecte, le tri et la notification des déchets. Cette poubelle intelligente offre des fonctionnalités avancées pour améliorer l'efficacité de la gestion des déchets tout en contribuant à la protection de l'environnement.
+🚀 **Automatic Lid Opening:** The trash can opens automatically when someone approaches it, thanks to a motion sensor.
+📏 **Fill Level Sensor:** The trash can detects its fill level and prevents opening if it's full, avoiding overflows.
+📢 **Notification System:** When the trash can is full, a notification system sends an alert for immediate collection.
 
-## 📋 Fonctionnalités
+## Table of Contents 📋
 
-- **Ouverture Automatique du Couvercle :** La poubelle s'ouvre automatiquement lorsque quelqu'un s'approche, grâce à un capteur de mouvement.
+- [Hardware Used](#hardware-used) 🛠️
+- [Software Used](#software-used) 📡
+- [Setup and Installation](#setup-and-installation) 🏗️
+- [Usage](#usage) 📦
+- [Contributing](#contributing) 🤝
+- [License](#license) 📄
 
-- **Capteur de Remplissage :** La poubelle détecte son niveau de remplissage et empêche l'ouverture si elle est pleine, évitant les débordements.
+## Hardware Used 🛠️
 
-- **Système de Notification :** Lorsque la poubelle est pleine, un système de notification envoie une alerte pour la collecte immédiate.
-
-## 🛠️ Matériels Utilisés
-
-- Microcontrôleur ESP32
+- Microcontroller: ESP32
 - Breadboard
-- Servo-Moteur SG90
-- Capteurs à Ultrasons
-- LED Indicateur
+- Servo Motor: SG90
+- Ultrasonic Sensors
+- LED Indicator
 
-## 💻 Logiciels
+## Software Used 📡
 
-- IDE Arduino
-- Plateforme Blynk (pour l'interface utilisateur mobile)
+- Arduino IDE
+- Blynk Platform (for the mobile user interface)
 
-## 🚀 Réalisation
+## Setup and Installation 🏗️
 
-![Simulation](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/Simulation.PNG)
+1. Clone this repository to your local machine:
 
-Montage Réel : [Lien](https://drive.google.com/file/d/1G3Fbi55WKITg7rH2b8gXDcFIxUMKzwmS/view?usp=sharing)
-
-## ⚡ Utilisation
-
-1. Clonez ce dépôt sur votre ordinateur.
-2. Configurez les matériels et téléchargez le code source dans le microcontrôleur ESP32.
-3. Utilisez l'application Blynk pour surveiller l'état de la poubelle et recevoir des notifications.
-4. Contribuez à améliorer et personnaliser cette solution pour répondre à vos besoins spécifiques.
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/FatimaEzzahraElAyadi/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahra-el-ayadi-977bb5196/)
+   ```bash
+   git clone https://github.com/yourusername/smart-trash-can.git
