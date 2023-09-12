@@ -53,7 +53,6 @@ Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/smart-trash-can.git
 
-
 1- Open the Arduino IDE and load the Arduino sketch from the arduino directory.
 
 2- Configure the necessary libraries and dependencies.
