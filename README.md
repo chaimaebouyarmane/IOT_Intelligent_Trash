@@ -24,15 +24,21 @@ In today's rapidly evolving technological landscape, the Internet of Things (IoT
 - Blynk Platform (for the mobile user interface)
 
 ## 🚀 Réalisation
+
 ### Demo
-Explore the application and see it in action by clicking the link below:
+
+Explore the application and see it in action by clicking the link :
 [Lien](https://drive.google.com/file/d/1G3Fbi55WKITg7rH2b8gXDcFIxUMKzwmS/view?usp=sharing)
 
 ### Simulation
+The simulation of our project :
+
 ![Simulation](https://github.com/chaimaebouyarmane/IOT_Intelligent_Trash/blob/main/Img/Simulation.PNG)
 
 ### Blynk Mobile App Interface 📱
-To remotely interact with the Smart Trash Can project, we've established a user-friendly mobile interface through the Blynk platform. that include a notification feature to alert waste collection personnel when the trash can reaches full capacity.
+
+To remotely interact with the Smart Trash Can project, we've established a user-friendly mobile interface through the Blynk platform. That include a notification feature to alert waste collection personnel when the trash can reaches full capacity.
+
 ![Notification](https://github.com/chaimaebouyarmane/IOT_Intelligent_Trash/blob/main/Img/Notification.PNG) 
 
 
