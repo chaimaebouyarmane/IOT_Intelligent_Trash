@@ -1,6 +1,6 @@
 # Smart Trash IoT Project 🗑️
 
-![Smart Trash](https://github.com/chaimaebouyarmane/IOT_Intelligent_Trash/blob/main/Imag/smart_trash.PNG)
+![Smart Trash](https://github.com/chaimaebouyarmane/IOT_Intelligent_Trash/blob/main/Img/smart_trash.PNG)
 
 In today's rapidly evolving technological landscape, the Internet of Things (IoT) is at the forefront of innovation, bringing about significant changes in the way we interact with everyday objects. The Smart Trash project is a prime example of how IoT is reshaping our lives. By harnessing the power of sensors, microcontrollers, and mobile interfaces, this project tackles common issues with a fresh and intelligent approach. With features like automatic lid opening, fill-level detection to prevent overflows, and real-time notifications for immediate trash collection, it exemplifies the pivotal role IoT plays in enhancing efficiency, reducing waste, and simplifying our daily routines.
 
