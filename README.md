@@ -51,7 +51,7 @@ To remotely interact with the Smart Trash Can project, we've established a user-
 Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/smart-trash-can.git
+   git clone https://github.com/chaimaebouyarmane/IOT_Intelligent_Trash.git
 ```
 1- Open the Arduino IDE and load the Arduino sketch from the arduino directory.
 
